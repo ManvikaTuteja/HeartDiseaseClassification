@@ -3,10 +3,11 @@
 # Introduction
 
 As per the Centers for Disease Control and Prevention, one person dies every 36 seconds in the US from heart disease. The Heart is the most important part of our bodies. Any dysfunctionality in the heart will affect other organs of the body. Heart disease has increasingly become one of the leading causes of death in the world. For that, we have decided as a team to create a prediction method for classification of heart disease. A dataset on this subject was extracted from UCI Machine Learning Repository which contains 14 attributes and explained in detail in the coming sections. The creators for this data were:
-● Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
-● University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
-● University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
-● V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano,
+
+1. Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
+2. University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
+3. University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
+4. V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano,
 M.D., Ph.D.
 
 # Problem Definition
